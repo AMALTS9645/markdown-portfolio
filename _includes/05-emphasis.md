@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*full stack deveropment*
+_This will be italic_
+
+**mernstack**
+__This will be bold__
+
+_italic **bold** combined_
